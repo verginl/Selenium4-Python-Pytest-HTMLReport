@@ -14,3 +14,6 @@ Pytest html report: <br>
 pip install pytest-html
 <br><br>
 Run : pytest Test_Login.py -v --html=report_login.html
+<br>
+Run One Def : pytest .\Test_Login.py -v -m namemark
+
